@@ -1,0 +1,44 @@
+body {
+    background-color:black;
+    color: whitesmoke
+}
+
+#heading {
+    font-weight: bold;
+    height: 15%;
+    font-family:cursive;
+    color: black;
+    background-color:white;
+    margin-top: -17px;
+}
+
+#start1 {
+    height: 37px;
+    width: 87px;
+    margin-top: 50px;
+    color: black;
+    font-size: large;
+}
+
+#main_body {
+   font-family:cursive; 
+}
+
+.img1 {
+    width: 250px;
+    height: 250px;
+}
+
+#footer {
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:fixed;
+    bottom: 0px;
+}
+
+span {
+    color: white;
+}
